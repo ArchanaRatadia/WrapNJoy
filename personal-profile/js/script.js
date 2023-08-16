@@ -236,9 +236,9 @@ jQuery(function ($) {
         var personal = new Typewriter(app, {
             loop: true
         });
-        personal.typeString('Photographer').pauseFor(2000).deleteAll()
-            .typeString('Traveler').pauseFor(2000).deleteAll()
-            .typeString('Model').start();
+        personal.typeString('Welcome To Wrap N Joy!').pauseFor(2000).deleteAll()
+            .typeString('We Have Gifting Solutions For Individuals/Corporates.').pauseFor(2000).deleteAll()
+            .typeString('We Are Partners With Many Local And International Big Brands.').start();
     }
 
 
